@@ -1,0 +1,1 @@
+ReactJs ve Asp.Net Core ile yaptığım bu projede veritabanı olarak ise MSSQL 2018 kullandım. Bu projede frontend ile backend arasındaki etkileşimin nasıl olduğunu Api'ye istek atmanın yanında methodlar ile de etkileşim sağladım. Bu etkileşimde genel olarak crud operasyonlarını gerçekleştirdim. 
